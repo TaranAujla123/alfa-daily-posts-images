@@ -25,6 +25,10 @@ fal.config({ credentials: FAL_KEY });
 
 const MODEL = "fal-ai/flux-pro/v1.1-ultra";
 
+// Mirror every render to this local folder in addition to the repo.
+const LOCAL_MIRROR_ROOT =
+  "C:\\Users\\Owner\\ALFA REBUILD\\MARKETING\\IG Posts\\POST IMAGES";
+
 const GLOBAL_STYLE =
   "cinematic still, 35mm film stock, shallow depth of field, warm amber highlights, cool deep shadows, high contrast, grounded masculine tone, dark moody atmosphere, ultra-detailed, photographic realism, no text, no words, no logos, no watermarks, no captions, no typography";
 
@@ -123,6 +127,17 @@ async function generateOne(job: Job): Promise<void> {
   const ms = Date.now() - start;
   const sizeKb = Math.round(fs.statSync(outPath).size / 1024);
   console.log(`  OK  ${outPath}  (${sizeKb} KB, ${(ms / 1000).toFixed(1)}s)`);
+
+  // Mirror to local POST IMAGES folder, bucketed by day
+  try {
+    const mirrorDir = path.join(LOCAL_MIRROR_ROOT, `day-${job.day}`);
+    fs.mkdirSync(mirrorDir, { recursive: true });
+    const mirrorPath = path.join(mirrorDir, path.basename(outPath));
+    fs.copyFileSync(outPath, mirrorPath);
+    console.log(`      mirrored → ${mirrorPath}`);
+  } catch (err) {
+    console.warn(`      mirror failed: ${(err as Error).message}`);
+  }
 }
 
 async function main() {

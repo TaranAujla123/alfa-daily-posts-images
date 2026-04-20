@@ -47,6 +47,15 @@ npm run sample                          # generates Day 12 + Day 40 (6 images)
 npx tsx scripts/generate-sample-day12.ts --day 12
 ```
 
+## Dual output — repo + local
+
+Every render is saved in TWO places:
+
+1. **This repo** under `samples/day-N/` (for review and version history)
+2. **Local working folder** under `C:\Users\Owner\ALFA REBUILD\MARKETING\IG Posts\POST IMAGES\day-N\` (for direct Canva upload)
+
+The generator scripts handle the JPG mirror automatically. Quote markdown (`quote.md`) is written to both locations at author time.
+
 ## Status
 
-- **2026-04-20** — Initial samples published: Day 12 (The Danger Window), Day 40 (It Has No Leverage). Awaiting user selection before scaling to the full 65-day batch.
+- **2026-04-20** — Initial samples published: Day 12 (The Danger Window), Day 40 (It Has No Leverage). Iteration 1 shipped with user-requested revisions (Day 12 B-v2, Day 40 A-v2 + D + E). Awaiting user selection before scaling to the full 65-day batch.
