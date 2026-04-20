@@ -1,0 +1,17 @@
+{
+  "name": "alfa-daily-posts-images",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sample": "tsx scripts/generate-sample-day12.ts"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.9.5",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.7.3"
+  }
+}
