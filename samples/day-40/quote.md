@@ -4,55 +4,70 @@
 **Phase:** 2 · RESTART
 **Wisdom Context:** The pattern had leverage because you needed what it offered. Today you confirm it has none.
 
+> **Brand-kit compliance:** Subject ("drinking / the drink") named in plain English before any ALFA proprietary term. All proprietary terms paired with concrete anchors.
+
 ---
 
 ## Primary hook quote (recommended)
 
-> **THE PATTERN DIDN'T GET WEAKER.**
-> **YOU STOPPED NEEDING IT.**
+> **THE DRINKING DIDN'T GET WEAKER.**
+> **YOU STOPPED NEEDING WHAT IT OFFERED.**
 
 *Gold key words:* `STOPPED NEEDING`
+*Compliance:* Subject ("drinking") named in line 1. Line 2 reframes with ownership language.
 
 ---
 
 ## Alternate hooks
 
-**Option B — punch**
-> **IT LOST ITS LEVERAGE**
-> **THE DAY YOU STOPPED NEEDING IT.**
+**Option B — subject-led, punchy**
+> **IT LOST ITS HOLD THE DAY**
+> **YOU STOPPED NEEDING THE DRINK.**
 >
-> *Gold:* `LEVERAGE` · `STOPPED NEEDING`
+> *Gold:* `STOPPED NEEDING`
+> Plain-English subject at the end delivers the payoff.
 
-**Option C — direct, confrontational**
-> **LEVERAGE IS NOT FORCE.**
+**Option C — declarative, mechanism-forward**
+> **LEVERAGE ISN'T FORCE.**
 > **IT'S THE HOLD A THING HAS**
-> **WHEN YOU NEED WHAT IT OFFERS.**
+> **WHEN YOU NEED WHAT IT GIVES YOU.**
 >
 > *Gold:* `LEVERAGE` · `NEED`
+> Works for mid-funnel content — abstracts "leverage" but makes the mechanism concrete.
 
-**Option D — identity statement**
-> **THE OFFER BECAME IRRELEVANT.**
-> **THAT'S HOW THE PATTERN DIES.**
+**Option D — identity-state statement**
+> **THE DRINK STOPPED OFFERING**
+> **ANYTHING YOU STILL NEEDED.**
 >
-> *Gold:* `IRRELEVANT` · `DIES`
+> *Gold:* `STOPPED OFFERING`
+> Subject in line 1, mechanism in line 2.
 
 ---
 
 ## Caption (IG body)
 
-> The pattern had leverage because you needed what it provided. Not wanted — needed.
+> The drink had leverage because you needed what it provided. Not wanted — needed.
 >
-> Relief from the pull. A way to exit a hard emotional state without sitting with it. A negotiating partner for the permission voice when pressure got high.
+> Relief from the 6 p.m. itch to reach for the glass. A way to exit a hard emotional state without sitting with it. A negotiating partner for the voice in your head when the pressure got high enough.
 >
-> That hold is called leverage. Not force. Not compulsion. A specific grip that exists because you needed what was being offered.
+> That hold is called leverage. Not force. Not compulsion. A specific grip that exists because the drink was offering something you genuinely couldn't get any other way — at the time.
 >
 > Remove the need — and the leverage collapses.
 >
-> The pattern doesn't lose its power because you got stronger or more disciplined. It loses it because the replacements got built. The need went somewhere else. The offer became irrelevant.
+> The drinking doesn't lose its power because you got stronger or more disciplined. It loses it because the replacements got built. The need went somewhere else. The offer became irrelevant.
 >
 > One day at a time.
 >
 > www.alfarebuild.com
+
+*Compliance check:*
+- Line 1 names "the drink" in plain English before introducing "leverage" proprietary term ✓
+- "The pull" replaced with concrete "the 6 p.m. itch to reach for the glass" ✓
+- "Permission voice" plain-languaged to "the voice in your head" ✓
+- No forbidden words ✓
+- No exclamation marks ✓
+- "One day at a time" only as closer ✓
+- Follows Pain → Solution → Outcome → How ordering ✓
 
 ## Hashtags
 

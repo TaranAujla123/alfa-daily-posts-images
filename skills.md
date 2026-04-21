@@ -126,8 +126,63 @@ See `PROJECT_RULES.md` for the canonical list. Key points:
 - **No text / words / logos** baked into fal.ai images
 - **Dark, moody, grounded** — never light/airy/generic-wellness
 - **Aspect ratio:** 1:1 for feed, 4:5 for portrait feed, 9:16 for Stories/Reels only
-- **Forbidden words:** addiction, craving, recovery, journey, healing, therapy (and more — see `docs/brand.md` in claude-video-styles repo)
+- **Forbidden words:** addiction, craving, recovery, journey, healing, therapy (full list in the brand kit)
 - **Subject age:** late 30s to mid-50s, grounded, lived-in (not models)
+
+---
+
+## 5b. Voice Rules Compliance Checklist (run this on every quote + caption before shipping)
+
+Every piece of text I author — hook quotes, alternate hooks, captions, carousel body copy — passes through this checklist. If any item fails, rewrite before shipping.
+
+### The 8-point check
+
+1. **Subject-Naming Rule** (highest priority for cold-reach content)
+   - [ ] Does slide 1 / first caption line name the subject in **plain English** (drinking, the drink, alcohol, what you pour at 9pm, what you reach for at the end of the day) BEFORE any ALFA proprietary term?
+   - **Exempt:** Mid-funnel content for existing followers only — content explicitly gated or posted to warm audience. Default is to assume cold reach.
+
+2. **Plain-Language Rule**
+   - [ ] Every ALFA proprietary term (the pattern, the pull, the noise, the mechanism, the permission voice, the rebuild, the observer, the danger window, leverage) is paired with a **concrete plain-language anchor in the same breath**?
+   - Example: ✗ "Relief from the pull" → ✓ "Relief from the 6 p.m. itch to reach for the glass"
+
+3. **Forbidden words**
+   - [ ] No: addiction · alcoholic · addict · substance abuse · alcoholism · craving · anxiety · stress disorder · recovery · healing · detox · rehab · relapse · abstinence · client · patient · user · CBT · DBT · ACT · urge surfing · window of tolerance · author names · "you are not alone" · "journey" (in cold-reach hooks or founder voice)
+
+4. **Exclamation marks**
+   - [ ] Zero exclamation marks anywhere in ALFA voice content.
+
+5. **"One day at a time"**
+   - [ ] Used ONLY as the closing line of a caption. Never mid-sentence. Never in a headline. Never repeated.
+
+6. **Caption opener**
+   - [ ] Opens with ONE sentence, straight to it, no preamble. Not "Let me tell you about..." or "Today we're talking about..." — just the punch.
+
+7. **Pain → Solution → Outcome → How ordering**
+   - [ ] Caption structure: name the pain (let him feel seen) → offer the reframe → point to the outcome → hint at the how. In that order.
+
+8. **Ownership, not pity**
+   - [ ] Language frames the reader as agent, not victim. "You stopped needing it" ✓ / "It stopped having power over you" ✗
+   - [ ] No pity language. No victim framing. No "you deserve better" or "you're not alone" therapy-speak.
+
+### Allowed plain-English subject references (use any of these in hooks)
+
+- `drinking` · `the drinking` · `the drink` · `drink more than you should`
+- `alcohol` · `the habit` · `what you reach for at the end of the day` · `what you pour at 9pm`
+- `the drinking has become a problem`
+
+### Pre-publish test
+
+Read the first sentence (hook or caption line 1) aloud to a stranger. Can they tell what the post is about? If no → rewrite the opener to name the subject.
+
+### Worked before/after examples
+
+| ✗ Before | ✓ After | Why |
+|----------|---------|-----|
+| "THE PULL IS NOT RANDOM. IT ARRIVES ON SCHEDULE." | "THE PULL TO DRINK ISN'T RANDOM. IT ARRIVES ON SCHEDULE." | Cold reader now knows the pull is about drinking |
+| "The pattern had leverage because you needed what it provided." | "The drink had leverage because you needed what it provided." | Subject named before proprietary term |
+| "Relief from the pull" | "Relief from the 6 p.m. itch to reach for the glass" | Concrete anchor next to proprietary term |
+| "The mechanism can be interrupted." | "The automatic sequence — the one that runs before you've decided — can be interrupted. We call it the mechanism." | Plain language does the work; proprietary term names it |
+| "You've got this! Start your healing journey today!" | "You drink more than you want to. There's a stronger version of you on the other side of that." | Kill exclamation, kill journey, name the subject, frame the destination |
 
 ---
 
