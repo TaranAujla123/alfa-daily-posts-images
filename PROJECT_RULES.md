@@ -2,6 +2,19 @@
 
 These rules override any specific prompt language. When a rule conflicts with the prompt, the rule wins.
 
+## ALWAYS — dual output (non-negotiable)
+
+Every image, every quote.md, every final PNG is saved to **TWO locations** in the same operation. No exceptions.
+
+1. **GitHub repo:** `C:\Users\Owner\alfa-daily-posts-images\samples\day-N\`
+2. **Local working folder:** `C:\Users\Owner\ALFA REBUILD\MARKETING\IG Posts\POST IMAGES\day-N\`
+
+When the post-pipeline is used, a **third** output goes to:
+
+3. **Pipeline static assets:** `C:\Users\Owner\ALFA REBUILD\CLAUDE CODE\post-pipeline\public\bg-day-N\`
+
+Generator scripts handle this tri-mirror automatically. For quote.md and final PNGs that I write manually, copy to both primary locations every time. Never ship to the repo without mirroring to POST IMAGES.
+
 ## Eye contact
 
 - **No person in any image may look directly at the camera** unless Taran explicitly instructs otherwise for a specific shot.
